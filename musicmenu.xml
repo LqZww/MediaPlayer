@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.menu_test.Menu2Activity">
+    <item
+        android:id="@+id/item1"
+        android:orderInCategory="100"
+        android:title="薛之谦-我害怕" />
+    <item
+        android:id="@+id/item2"
+        android:orderInCategory="100"
+        android:title="薛之谦-一半" />
+    <item
+        android:id="@+id/item3"
+        android:orderInCategory="100"
+        android:title="OMFG-I Love You" />
+    <item
+        android:id="@+id/item4"
+        android:orderInCategory="100"
+        android:title="封茗囧菌-安娜的橱窗" />
+    <item
+        android:id="@+id/item5"
+        android:orderInCategory="100"
+        android:title="龚宏-不想长大" />
+    <item
+        android:id="@+id/item6"
+        android:orderInCategory="100"
+        android:title="凯瑟喵-白夜" />
+</menu>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/item1" android:title="我行即我道"></item>
+    <item android:id="@+id/item2" android:title="半城烟沙"></item>
+    <item android:id="@+id/item3" android:title="天龙八部之宿敌"></item>
+    <item android:id="@+id/item4" android:title="我爱他"></item>
+</menu>
